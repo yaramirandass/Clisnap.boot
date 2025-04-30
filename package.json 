@@ -1,0 +1,17 @@
+{
+  "name": "clicksnap-viewer",
+  "version": "1.0.0",
+  "description": "Automação com Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "proxy-chain": "^2.5.1"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
+  "license": "MIT"
+}
